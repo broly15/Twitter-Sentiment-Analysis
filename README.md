@@ -1,7 +1,7 @@
 # Twitter Sentiment Analysis
 
 
-[![Web App GIF](Figures/Web_App_GIF_Aug23.gif)](https://twitter-analysis-web-app.herokuapp.com)
+[![Web App GIF](Figures/Web_App_GIF_Aug23.gif)]
 <br/>
 
 __Dive into the industry and get my hands dirty. That's why I start this self-motivated independent project.__
