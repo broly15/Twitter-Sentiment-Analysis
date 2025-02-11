@@ -32,16 +32,12 @@ The solution for evaluating Twitter data to perform better business decisions is
 3. Connect with Plotly for real-time interactive dashboard based on time series
 4. Deploy the real-time interactive front-end web app using Dash & Heroku PostgreSQL on Heroku server
 
-## Quick Demo 
-
-### Real-time Interactive Web App on Heroku server
-[web app](https://twitter-analysis-web-app.herokuapp.com)
-
+## Quick Demo
 
 ### Real-time Twitter Sentiment Analysis in Jupyter Notebook
 Try this interactive [data visuilization](https://nbviewer.jupyter.org/github/Chulong-Li/Twitter-Data-Sentiment-Analysis/blob/master/Trend_Analysis_Complex.ipynb) in Jupyter Notebook. To run with streaming data, you need to deploy it locally.
 
-<img src="https://github.com/Chulong-Li/Twitter-Data-Sentiment-Analysis/blob/master/Figures/Complex.png" alt="Complex Dashboard" width="70%" height="70%">
+<img src="https://github.com/broly15/Twitter-Sentiment-Analysis/blob/main/Figures/Complex.png" alt="Complex Dashboard" width="70%" height="70%">
 
 ## Get Started
 
