@@ -1,4 +1,4 @@
-# Real-time Twitter Sentiment Analysis for Brand Improvement and Topic Tracking
+# Twitter Sentiment Analysis
 
 
 [![Web App GIF](Figures/Web_App_GIF_Aug23.gif)](https://twitter-analysis-web-app.herokuapp.com)
@@ -22,7 +22,7 @@ The solution for evaluating Twitter data to perform better business decisions is
 - More than 65.6% users will write the locations in their profile, although very few of them don't live on Earth according to that fact.
 - The numbers of positive and negative tweets are relatively close and stay low compared with neural tweet number. Unless emergency events happen, lines won't fluctuate acutely.
 
-## Technical Approach - Version 2 ( ~ Sep 16)
+## Technical Approach - Version 2
 1. Build ETL pipelines based on stream processing using Kafka (In Progress)
 2. Perform sentiment analysis using Spark Streaming (In Progress)
 
@@ -35,7 +35,7 @@ The solution for evaluating Twitter data to perform better business decisions is
 ## Quick Demo 
 
 ### Real-time Interactive Web App on Heroku server
-[web app](https://twitter-analysis-web-app.herokuapp.com) has been deployed on Heroku.
+[web app](https://twitter-analysis-web-app.herokuapp.com)
 
 
 ### Real-time Twitter Sentiment Analysis in Jupyter Notebook
